@@ -1,0 +1,1 @@
+ngSpotify example project from Udemy trainings
